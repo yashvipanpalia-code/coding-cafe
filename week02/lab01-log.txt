@@ -1,0 +1,154 @@
+    1  python3 --version
+    2  cd
+    3  pwd
+    4  ls
+    5  ls -a
+    6  ls -l
+    7  mkdir coding-cafe
+    8  ls
+    9  cd coding-cafe
+   10  pwd
+   11  cd ..
+   12  cd coding-cafe/
+   13  clear
+   14  pwd
+   15  cd ..
+   16  mkdir coding-cafe/week01
+   17  cd coding-cafe/
+   18  ls
+   19  mkdir week02
+   20  ls
+   21  cd week02
+   22  cd../week01
+   23  cd ../week01
+   24  cd ../week02
+   25  touch notes.md
+   26  ls
+   27  code notes.md
+   28  pwd
+   29  cd ..
+   30  pwd
+   31  cd ..
+   32  pwd
+   33  cd ..
+   34  pwd
+   35  exit
+   36  cd Desktop/
+   37  cd..
+   38  cd ..
+   39  cd Desktop/
+   40  cd Desktop
+   41  cd ..
+   42  cd Desktop/
+   43  cd ..
+   44  cd Desktop/
+   45  pwd
+   46  exit
+   47  clear
+   48  pwd
+   49  ls
+   50  ls -force
+   51  ls -Force
+   52  clear
+   53  ls
+   54  ls --force
+   55  ls -Force
+   56  clear
+   57  pwd
+   58  ls
+   59  ls -Force
+   60  cd coding-cafe
+   61  cd coding cafe
+   62  cd coding-cafe
+   63  exit
+   64  cd coding-cafe
+   65  cd Desktop/
+   66  cd coding-cafe
+   67  cd home/
+   68  ls
+   69  ls ~
+   70  cd 
+   71  ls
+   72  cd coding-cafe
+   73  cd week02
+   74  cd notes.md
+   75  ls
+   76  ls -Force
+   77  pwd
+   78  cd ..
+   79  pwd
+   80  cd ..
+   81  pwd
+   82  ls
+   83  ls -l
+   84  ls -a
+   85  ls -l
+   86  ls ~
+   87  pwd
+   88  cd coding-cafe
+   89  ls
+   90  cd ..
+   91  ls
+   92  cd ..
+   93  ls
+   94  cd sonal_home/
+   95  ls
+   96  ls -a
+   97  cd week02
+   98  cd coding-cafe
+   99  ls
+  100  ls -a
+  101  ls -l
+  102  cd ~
+  103  ls coding-cafe/week02
+  104  pwd
+  105  ls -R coding-cafe
+  106  cd ..
+  107  pwd
+  108  ls
+  109  cd ~
+  110  pwd
+  111  ls
+  112  cd coding-cafe
+  113  touch README.md
+  114  ls
+  115  cp README.md README-backup.md
+  116  mv README-backup.md week01/
+  117  cd week01
+  118  README-backup.md old-readme.md
+  119  mv README-backup.md old-readme.md
+  120  ls
+  121  pwd
+  122  rm old-readme.md
+  123  ls
+  124  echo $PATH
+  125  which python3
+  126  which pip
+  127  which ls
+  128  pyton3
+  129  cd ~/coding-cafe
+  130  python3 -m venv .venv
+  131  apt install python3.14-venv
+  132  cd ~/coding-cafe
+  133  python3 -m venv .venv
+  134  ls
+  135  ls -a
+  136  source .venv/bin/activate
+  137  pwd
+  138  pip list
+  139  pip install requests
+  140  pip list
+  141  deactivate
+  142  which python3
+  143  man ls
+  144  ls -h
+  145  man ls
+  146  man man
+  147  history
+  148  python3
+  149  wsl
+  150  cd coding-cafe
+  151  ls
+  152  cd ~
+  153  cd coding-cafe
+  154  history >week02/lab01-log.txt
